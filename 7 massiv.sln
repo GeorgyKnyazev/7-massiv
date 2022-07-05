@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 massiv", "7 massiv\7 massiv.csproj", "{EBC79A80-2BE1-4394-A495-8098BD2FFA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC79A80-2BE1-4394-A495-8098BD2FFA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC79A80-2BE1-4394-A495-8098BD2FFA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC79A80-2BE1-4394-A495-8098BD2FFA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC79A80-2BE1-4394-A495-8098BD2FFA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68436107-1D44-49CB-9EC9-9A9E177550AA}
+	EndGlobalSection
+EndGlobal
